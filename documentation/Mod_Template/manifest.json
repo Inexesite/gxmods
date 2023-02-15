@@ -1,12 +1,12 @@
 {
-    "description": "MOD DESCRIPTION GOES HERE",
+    "description": "this mod replaces most of Opera GX sounds with cursed or funny ones and allows you to listen to funni music",
     "developer":
     {
-        "name": "DEVELOPER NAME GOES HERE"
+        "name": "Inexistente"
     },
     "icons":
     {
-        "512": "icon_512.png"
+        "512": "amogus_512.png"
     },
     "manifest_version": 3,
     "mod":
@@ -16,24 +16,24 @@
         {
             "background_music":
             [
-                "music/track_1.mp3",
-                "music/track_2.mp3",
-                "music/track_3.mp3",
-                "music/track_4.mp3"
+                "music/Terraria_Overworld_Day_Trap_Remix.mp3",
+                "music/Among_Us_Trap_Remix.mp3",
+                "music/Minecraft.mp3",
+                "music/Kazotsky_Kick.mp3"
             ],
             "browser_sounds":
             {
                 "CLICK":
                 [
-                    "sound/click.mp3"
+                    "sound/boomsfx.mp3"
                 ],
                 "FEATURE_SWITCH_OFF":
                 [
-                    "sound/feature_switch_off.mp3"
+                    "sound/king_crimson.mp3"
                 ],
                 "FEATURE_SWITCH_ON":
                 [
-                    "sound/feature_switch_on.mp3"
+                    "sound/king_crimson.mp3"
                 ],
                 "HOVER":
                 [
@@ -45,7 +45,7 @@
                 ],
                 "IMPORTANT_CLICK":
                 [
-                    "sound/important_click.mp3"
+                    "sound/Goku_drip.mp3"
                 ],
                 "LEVEL_UPGRADE":
                 [
@@ -53,48 +53,48 @@
                 ],
                 "LIMITER_OFF":
                 [
-                    "sound/limiter_off.mp3"
+                    "sound/meeting_amogus.mp3"
                 ],
                 "LIMITER_ON":
                 [
-                    "sound/limiter_on.mp3"
+                    "sound/meeting_amogus.mp3"
                 ],
                 "SWITCH_TOGGLE":
                 [
-                    "sound/switch.mp3"
+                    "sound/stand_summon.mp3"
                 ],
                 "TAB_CLOSE":
                 [
-                    "sound/close_tab.mp3"
+                    "sound/yoda_death.mp3"
                 ],
                 "TAB_INSERT":
                 [
-                    "sound/new_tab.mp3"
+                    "sound/Oi_sfx.mp3"
                 ],
                 "TAB_SLASH":
                 [
-                    "sound/tab_slash.mp3"
+                    "sound/Oi_sfx.mp3"
                 ]
             },
             "keyboard_sounds":
             {
                 "TYPING_BACKSPACE":
                 [
-                    "keyboard/backspace.mp3"
+                    "keyboard/xp_error.mp3"
                 ],
                 "TYPING_ENTER":
                 [
-                    "keyboard/enter.mp3"
+                    "keyboard/moai_sfx.mp3"
                 ],
                 "TYPING_LETTER":
                 [
-                    "keyboard/letter_1.mp3",
-                    "keyboard/letter_2.mp3",
-                    "keyboard/letter_3.mp3"
+                    "keyboard/huh_sfx.mp3",
+                    "keyboard/huh_sfx.mp3",
+                    "keyboard/huh_sfx.mp3"
                 ],
                 "TYPING_SPACE":
                 [
-                    "keyboard/space.mp3"
+                    "keyboard/teleport_sfx.mp3"
                 ]
             },
             "page_styles":
@@ -178,6 +178,6 @@
         },
         "schema_version": 1
     },
-    "name": "MOD NAME GOES HERE",
+    "name": "Cursed sfx and music",
     "version": "1.0"
 }
